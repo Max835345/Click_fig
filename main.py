@@ -1,6 +1,7 @@
 import pygame
 from pygame.locals import *
 
+
 root = pygame.display.set_mode((700, 700))
 pygame.display.set_caption('CLICK_FIG')
 pygame.display.update()
